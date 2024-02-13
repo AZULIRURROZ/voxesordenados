@@ -35,4 +35,4 @@ function allVoxsDisplayScrolling(seconds, hover){
     }, 250);
 }
 
-allVoxsDisplayScrolling(1, true)
+allVoxsDisplayScrolling(5, true)
